@@ -9,7 +9,7 @@ Technical writer focused on documentation engineering, automation workflows, tra
 ## Notes
 
 - [FrameMaker Notes](posts/framemaker.md)
-- [First Post](posts/first-post.md)
+- [First post](posts/first_post.md)
 
 ---
 
