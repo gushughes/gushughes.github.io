@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="assets/style.css">
 
-# Gus Hughes
+<title>Morning Fields</title>
 
 Technical writer focused on documentation engineering, automation workflows, translation systems, and embedded systems learning.
 
