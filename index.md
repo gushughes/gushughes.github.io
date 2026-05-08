@@ -1,14 +1,14 @@
 # Gus Hughes
 
-Technical writer focused on:
-
-- FrameMaker automation
-- Translation workflows
-- Markdown tooling
-- Embedded systems learning
+Technical writer working on documentation engineering, FrameMaker automation, translation workflows, and embedded systems learning.
 
 ## Notes
 
-- [FrameMaker Notes](posts/framemaker-notes.md)
+- [FrameMaker automation](posts/framemaker.md)
+- [First post](posts/first-post.md)
 
-- [First Post](posts/first_post.md)
+## Projects
+
+- [text-inset-solver](https://github.com/gushughes/text-inset-solver)
+- [mchale-term-extract](https://github.com/gushughes/mchale-term-extract)
+- [c_learning](https://github.com/gushughes/c_learning)
