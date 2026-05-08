@@ -1,6 +1,8 @@
+<title>Morning Fields</title>
+
 <link rel="stylesheet" href="assets/style.css">
 
-<title>Morning Fields</title>
+# Morning Fields
 
 Technical writer focused on documentation engineering, automation workflows, translation systems, and embedded systems learning.
 
@@ -15,12 +17,12 @@ Technical writer focused on documentation engineering, automation workflows, tra
 
 ## Areas of Interest
 
-- Documentation
+- Documentation engineering
 - FrameMaker automation
 - Translation workflows
 - Embedded systems learning
 - Structured data tooling
 
-- ---
+---
 
 Built with Markdown and GitHub Pages.
