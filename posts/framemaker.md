@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../assets/style.css">
+
 # FrameMaker Automation Notes
 
 ## Objective
