@@ -10,3 +10,5 @@ Technical writer focused on:
 ## Notes
 
 - [FrameMaker Notes](posts/framemaker-notes.md)
+
+- [First Post](posts/first_post.md)
