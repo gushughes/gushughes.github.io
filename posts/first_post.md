@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../assets/style.css">
+
 # First Post
 
 ## Why I Made This Site
