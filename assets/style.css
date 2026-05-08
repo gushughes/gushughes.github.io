@@ -8,6 +8,10 @@ body {
     color: #e5e7eb;
 }
 
+.site-title {
+    display: none;
+}
+
 a {
     color: #7dd3fc;
     text-decoration: none;
