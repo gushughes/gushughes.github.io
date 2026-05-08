@@ -16,3 +16,7 @@ Technical writer focused on documentation engineering, automation workflows, tra
 ## Projects
 
 - [text-inset-solver](https://github.com/gushughes/text-inset-solver)
+
+- ---
+
+Built with Markdown and GitHub Pages.
