@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="assets/style.css">
+
 # Gus Hughes
 
 Technical writer working on documentation engineering, FrameMaker automation, translation workflows, and embedded systems learning.
