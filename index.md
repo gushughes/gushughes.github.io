@@ -13,9 +13,13 @@ Technical writer focused on documentation engineering, automation workflows, tra
 
 ---
 
-## Projects
+## Areas of Interest
 
-- [text-inset-solver](https://github.com/gushughes/text-inset-solver)
+- Documentation
+- FrameMaker automation
+- Translation workflows
+- Embedded systems learning
+- Structured data tooling
 
 - ---
 
