@@ -17,3 +17,7 @@ Most of my work revolves around:
 - embedded systems learning
 
 This site acts as a central notes hub linked to my project repositories.
+
+---
+
+[Home](../index.md)
